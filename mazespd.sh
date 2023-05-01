@@ -1,1 +1,1 @@
-mazespd change
+mazespd change - change aftershockspd
